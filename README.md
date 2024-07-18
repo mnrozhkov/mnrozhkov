@@ -6,5 +6,4 @@
 
 <table ><tr>
     <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=mnrozhkov&show_icons=true&hide_title=true&hide_border=true&theme=buefy"></a></td>
-    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnrozhkov&layout=compact&hide_title=true&hide_border=true&theme=buefy"></a></td>
 </tr></table>
